@@ -18,7 +18,9 @@
 <img align="left" height="35" src="https://www.kojac.nl/tailwind/images/Backend/nodejs.png"> 
 <img align="left" height="35" src="https://cdn.iconscout.com/icon/free/png-256/html-59-225995.png">
 <img align="left" height="35" src="https://1000logos.net/wp-content/uploads/2020/09/CSS-Logo.png">
+<img align="left" alt="FL Studio 20" width="35px" src="https://static.wikia.nocookie.net/softwareprogramas-y-aplicaciones/images/0/0b/Flstudio.png/revision/latest?cb=20160301021919&path-prefix=es" />
 </p>
+</br>
 </br>
  
 ### 📈 Stats de GitHub
