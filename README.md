@@ -1,4 +1,4 @@
-# ¡Hola, Soy VenQui!
+# ¡Hola, Soy VenQuiDev!
 
 ### 💎 Proyectos:
 - BrinzBot *(Discord Bot)* - [BrinzBot](https://brinzbot.ga/)
@@ -11,7 +11,7 @@
 - 🎶 He estudiado musica desde los 7 años, tengo conocimientos en DAW'S tales como: Fl Studio, Ableton, Cubase, ETC...
 - 🎺 Mi instrumento principal es la Trompeta aunque tambien tengo conocimientos en Teclado y Percusiones
 
-### Lenguajes:
+### 👑 Lenguajes:
 
 <p>
 <img align="left" height="35" src="https://cdn.iconscout.com/icon/free/png-256/html-59-225995.png">
