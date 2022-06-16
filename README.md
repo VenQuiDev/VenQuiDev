@@ -18,6 +18,7 @@
 <img align="left" height="35" src="https://www.kojac.nl/tailwind/images/Backend/nodejs.png"> 
 <img align="left" height="35" src="https://cdn.iconscout.com/icon/free/png-256/html-59-225995.png">
 <img align="left" height="35" src="https://1000logos.net/wp-content/uploads/2020/09/CSS-Logo.png">
+</p>
  
 ### 📈 Stats de GitHub
 
