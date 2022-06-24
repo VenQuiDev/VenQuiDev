@@ -31,8 +31,4 @@
 
 ### 🖼 Certificados y Diplomas
 
-<p>
-<img align="left" height="369" src="https://media.discordapp.net/attachments/988216144185921546/989977997098487859/VenQuiCertificado_2.png">
-
-</p>
-
+  [![CertificadoRoodyCursoBotJunior](https://media.discordapp.net/attachments/988216144185921546/989977997098487859/VenQuiCertificado_2.png?width=522&height=369)](https://discord.com/user/447843518954602526) 
