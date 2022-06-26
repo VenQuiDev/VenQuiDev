@@ -34,7 +34,4 @@
 
 ### 🖼 Certificados y Diplomas
 
-</br>
-</br>
-
   [![CertificadoRoodyCursoBotJunior](https://media.discordapp.net/attachments/988216144185921546/989977997098487859/VenQuiCertificado_2.png?width=522&height=369)](https://www.roody.xyz/cursos/validar)
