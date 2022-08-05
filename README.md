@@ -14,6 +14,8 @@
 - 🎺 My main instrument is the Trumpet although I also have knowledge in Keyboard and Percussion
 - 💠 My [Replit](https://replit.com/@VenQuiDev)
 
+![](https://discord.c99.nl/widget/theme-3/447843518954602526.png) 
+
 ## 👑 I Have Knowledge In:
 
 <p>
