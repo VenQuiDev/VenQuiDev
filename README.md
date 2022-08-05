@@ -34,4 +34,4 @@
 
 ### 🖼 Certificates
 
-  [![CertificadoRoodyCursoBotJunior](https://cdn.discordapp.com/attachments/1002609030629425234/1004950430004027514/VenQuiCertificado.png)](https://www.roody.xyz/cursos/validar)
+  [![CertificadoRoodyCursoBotJunior](https://cdn.discordapp.com/attachments/1002609030629425234/1004950430004027514/VenQuiCertificado.png?width=522&height=369)](https://www.roody.xyz/cursos/validar)
