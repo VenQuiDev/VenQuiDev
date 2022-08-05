@@ -1,17 +1,17 @@
-# ¡Hola, Soy VenQuiDev!
+# ¡Hi, I'm VenQuiDev!
 
-### 💎 Proyectos:
-- BrinzBot *(Discord Bot)* - [BrinzBot](https://brinzbot.ga/)
-- VenQuiDev *(WEB)* - [VenQuiDev](https://www.youtube.com/watch?v=iik25wqIuFo)
+### 💎 Projects:
+- BrinzBot *(Discord Bot)* - [Bot Invitation](https://discord.com/api/oauth2/authorize?client_id=967263754301607996&permissions=8&scope=bot%20applications.commands) - [Support Server](https://discord.gg/BwhWSyEuuH)
+- VenQuiDev *(Web)* - [Link!](https://www.youtube.com/watch?v=iik25wqIuFo) - Coming Soon
 
-### 🎈 Sobre mi:
-- 🧑🏻 15 años
-- 🌮 Mexicano
-- 💻 Programador por Hobbie
-- 🎶 He estudiado musica desde los 7 años, tengo conocimientos en DAW'S tales como: Fl Studio, Ableton, Cubase, ETC...
-- 🎺 Mi instrumento principal es la Trompeta aunque tambien tengo conocimientos en Teclado y Percusiones
+### 🎈 About Me:
+- 🧑🏻 15 years old
+- 🌮 Mexican
+- 💻 Programmer by Hobby
+- 🎶 I have studied music since I was 7 years old, I have knowledge in DAW'S such as: Fl Studio, Ableton, Cubase, ETC...
+- 🎺 My main instrument is the Trumpet although I also have knowledge in Keyboard and Percussion
 
-### 👑 Lenguajes:
+### 👑 I Have Knowledge In:
 
 <p>
 <img align="left" height="35" src="https://cdn.iconscout.com/icon/free/png-256/html-59-225995.png">
@@ -23,7 +23,7 @@
 </br>
 </br>
  
-### 📈 Stats de GitHub
+### 📈 GitHub Stats
 
 <img align="left" src="https://github-readme-stats.vercel.app/api?username=VenQuiDev&&show_icons=true&include_all_commits=true&title_color=fff&icon_color=79ff97&text_color=efefef&bg_color=24292e" alt="Estadísticas de VenQuiDev" width="60%">
   
@@ -32,6 +32,6 @@
 </br>
 </br>
 
-### 🖼 Certificados y Diplomas
+### 🖼 Certificates
 
-  [![CertificadoRoodyCursoBotJunior](https://media.discordapp.net/attachments/988216144185921546/989977997098487859/VenQuiCertificado_2.png?width=522&height=369)](https://www.roody.xyz/cursos/validar)
+  [![CertificadoRoodyCursoBotJunior](https://cdn.discordapp.com/attachments/1002609030629425234/1004950430004027514/VenQuiCertificado.png)](https://www.roody.xyz/cursos/validar)
