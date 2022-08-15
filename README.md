@@ -3,7 +3,7 @@
 ## 💎 Projects:
 
 - BrinzBot *(Discord Bot)* - [Bot Invitation](https://discord.com/api/oauth2/authorize?client_id=967263754301607996&permissions=8&scope=bot%20applications.commands) - [Support Server](https://discord.gg/BwhWSyEuuH)
-- VenQuiDev *(Web)* - [Link!](https://www.youtube.com/watch?v=iik25wqIuFo) - Coming Soon
+- VenQuiDev *(Web)* - [Link!](https://venquidev.is-a.dev/)
 
 ## 🎈 About Me:
 
