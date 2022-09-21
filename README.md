@@ -1,44 +1,28 @@
-# ¡Hi, I'm VenQuiDev!
+# ¡Hola, Soy VenQuiDev!
 
-## 💎 Projects:
+## 🎈 Sobre Mi:
 
-- BrinzBot *(Discord Bot)* - [Bot Invitation](https://discord.com/api/oauth2/authorize?client_id=967263754301607996&permissions=8&scope=bot%20applications.commands) - [Support Server](https://discord.gg/BwhWSyEuuH)
-- VenQuiDev *(Web)* - [Link!](https://venquidev.is-a.dev/)
+<a href="https://discord.com/users/447843518954602526"><img src="https://lanyard.cnrad.dev/api/447843518954602526?idleMessage=%C2%A1Hi,%20I%27m%20VenQuiDev!" align="right" /></a>
 
-## 🎈 About Me:
+ - 🐄 CUU | México
+ - 🧑🏻 15 años | Hombre
+ - 💻 Aprendiendo programación por hobby desde el 2021
+ - 🎶 He estudiado música desde los 7 años, tengo conocimientos en instrumentos como: Trompeta, Teclado y Percusiones
+ - 🎧 En 2022 empece a estudiar sobre producción musical, actualmente tengo conocimientos en:  Fl Studio, Ableton, y Cubase.
 
-<a href="https://discord.com/users/447843518954602526">
-  <img src="https://lanyard.cnrad.dev/api/447843518954602526?idleMessage=%C2%A1Hi,%20I%27m%20VenQuiDev!" align="right" />
-</a>
+## 💎 Proyectos Principales:
 
-- 🧑🏻 15 years old
-- 🌮 Mexican
-- 💻 Programmer by Hobby
-- 🎶 I have studied music since I was 7 years old, I have knowledge in DAW'S such as: Fl Studio, Ableton, Cubase, ETC...
-- 🎺 My main instrument is the Trumpet although I also have knowledge in Keyboard and Percussion
-- 💠 My [Replit](https://replit.com/@VenQuiDev)
+#### 🤖 BrinzBot
 
-## 👑 I Have Knowledge In:
+- Bot Multiproposito
+- Diversión, Información, Moderación, Utilidad y Mucho mas
+- +30 Servidores | + 2800 Usuarios
 
-<p>
-<img align="left" height="35" src="https://cdn.iconscout.com/icon/free/png-256/html-59-225995.png">
-<img align="left" height="35" src="https://1000logos.net/wp-content/uploads/2020/09/CSS-Logo.png">
-<img align="left" height="35" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" style="max-width: 100%;">
-<img align="left" height="35" src="https://www.kojac.nl/tailwind/images/Backend/nodejs.png"> 
-<img align="left" alt="FL Studio 20" width="35px" src="https://static.wikia.nocookie.net/softwareprogramas-y-aplicaciones/images/0/0b/Flstudio.png/revision/latest?cb=20160301021919&path-prefix=es" />
-</p>
-</br>
-</br>
- 
-## 📈 GitHub Stats
+[Invitación](https://discord.com/api/oauth2/authorize?client_id=967263754301607996&permissions=8&scope=bot%20applications.commands) | [Web](https://brinzbot.ga/) | [Servidor de Soporte]()
 
-<img align="left" src="https://github-readme-stats.vercel.app/api?username=VenQuiDev&&show_icons=true&include_all_commits=true&title_color=fff&icon_color=79ff97&text_color=efefef&bg_color=24292e" alt="Estadísticas de VenQuiDev" width="60%">
-  
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=VenQuiDev&show_icons=true&hide_border=true&theme=radical" width="37%" alt="Lenguajes más usados por VenQuiDev">
+#### 🌐 Web Personal
 
-</br>
-</br>
+- Información mas extensa sobre mi
+- Listado completo de todos mis proyectos
 
-## 🖼 Certificates
-
-  [![CertificadoRoodyCursoBotJunior](https://cdn.discordapp.com/attachments/1002609030629425234/1004950430004027514/VenQuiCertificado.png?width=522&height=369)](https://www.roody.xyz/cursos/validar)
+[Web](https://venquidev.is-a.dev/)
