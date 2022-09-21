@@ -8,7 +8,7 @@
 ## 🎈 About Me:
 
 <a href="https://discord.com/users/447843518954602526">
-  <img src="https://lanyard.cnrad.dev/api/447843518954602526?idleMessage=Hi,%20I%27m%20VenQuiDev" align="right" />
+  <img src="https://lanyard.cnrad.dev/api/447843518954602526?idleMessage=%C2%A1Hi,%20I%27m%20VenQuiDev!" align="right" />
 </a>
 
 - 🧑🏻 15 years old
