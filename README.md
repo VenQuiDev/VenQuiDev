@@ -14,6 +14,8 @@
 
 ## 💎 Proyectos Principales:
 
+<img src="https://cdn.discordapp.com/attachments/1010292896840298599/1011718501372805210/standard.gif" align="right" /></a>
+
 #### 🤖 BrinzBot
 
 - Bot Multiproposito
