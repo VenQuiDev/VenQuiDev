@@ -1,3 +1,4 @@
+
 # ¡Hola, Soy VenQuiDev!
 
 ## 🎈 Sobre Mi:
@@ -26,3 +27,35 @@
 - Listado completo de todos mis proyectos
 
 [Web](https://venquidev.is-a.dev/)
+
+## 👑 Lenguajes y Programas que manejo actualmente
+
+<p>
+
+<a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5"><img src="https://cdn.discordapp.com/attachments/1010292896840298599/1022300943078920213/html.png" align="left" height="35" /></a>
+
+<a href="https://developer.mozilla.org/en-US/docs/Web/CSS"><img src="https://cdn.discordapp.com/attachments/1010292896840298599/1022301113199890542/css.png" align="left" height="35" /></a>
+
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img src="https://cdn.discordapp.com/attachments/1010292896840298599/1022301461780111390/js.png" align="left" height="35" /></a>
+
+<a href="https://nodejs.org/es/docs/"><img src="https://cdn.discordapp.com/attachments/1010292896840298599/1022300009150029955/node-js.png" align="left" height="35" /></a>
+
+<a href="https://www.image-line.com/fl-studio-learning/fl-studio-online-manual/"><img src="https://cdn.discordapp.com/attachments/1010292896840298599/1022301793310486608/fl-studio.png" align="left" height="35" /></a>
+
+</p>
+<br>
+<br>
+
+## 📈 GitHub Stats
+
+<img align="left" src="https://github-readme-stats.vercel.app/api?username=VenQuiDev&&show_icons=true&include_all_commits=true&title_color=fff&icon_color=79ff97&text_color=efefef&bg_color=24292e" alt="Estadísticas de VenQuiDev" width="60%">
+  
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=VenQuiDev&show_icons=true&hide_border=true&theme=radical" width="37%" alt="Lenguajes más usados por VenQuiDev">
+
+<br>
+<br>
+
+
+## 📃 Diplomas y Certificados
+
+<a href="https://www.roody.xyz/cursos/validar"><img src="https://cdn.discordapp.com/attachments/1010292896840298599/1022303323296116847/VenQuiCertificado.png" align="left" height="250" /></a>
