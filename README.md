@@ -1,56 +1,39 @@
-
-
-# ¡Hola, Soy VenQuiDev!
-
-## 🎈 Sobre Mi:
-
-<a href="https://discord.com/users/447843518954602526"><img src="https://lanyard.cnrad.dev/api/447843518954602526?idleMessage=%C2%A1Hi,%20I%27m%20VenQuiDev!" align="right" /></a>
-
- - 🐄 CUU | México
- - 🧑🏻 15 años | Hombre
- - 💻 Aprendiendo programación por hobby desde el 2021
- - 🎶 He estudiado música desde los 7 años, tengo conocimientos en instrumentos como: Trompeta, Teclado y Percusiones
- - 🎧 En 2022 empece a estudiar sobre producción musical, actualmente tengo conocimientos en:  Fl Studio, Ableton, y Cubase
-
-## 💎 Proyectos Principales:
-
-<img src="https://cdn.discordapp.com/attachments/1010292896840298599/1011718501372805210/standard.gif" align="right" /></a>
-
-#### 🤖 BrinzBot
-
-- Bot Multiproposito
-- Diversión, Información, Moderación, Utilidad y Mucho mas
-- +30 Servidores | + 2800 Usuarios
-
-[Invitación](https://discord.com/api/oauth2/authorize?client_id=967263754301607996&permissions=8&scope=bot%20applications.commands) | [Web](https://brinzbot.ga/) | [Servidor de Soporte]()
-
-#### 🌐 Web Personal
-
-- Información mas extensa sobre mi
-- Listado completo de todos mis proyectos
-
-[Web](https://venquidev.is-a.dev/)
-
-## 👑 Lenguajes y Programas que manejo actualmente
-
+<h1 id="-hola-soy-venquidev-">¡Hola, Soy VenQuiDev!</h1>
+<h2 id="-sobre-mi-">🎈 Sobre Mi:</h2>
+<p><a href="https://discord.com/users/447843518954602526"><img src="https://lanyard.cnrad.dev/api/447843518954602526?idleMessage=%C2%A1Hi,%20I%27m%20VenQuiDev!" align="right" /></a></p>
+<ul>
+<li>🐄 CUU | México</li>
+<li>🧑🏻 15 años | Hombre</li>
+<li>💻 Aprendiendo programación por hobby desde el 2021</li>
+<li>🎶 He estudiado música desde los 7 años, tengo conocimientos en instrumentos como: Trompeta, Teclado y Percusiones</li>
+<li>🎧 En 2022 empece a estudiar sobre producción musical, actualmente tengo conocimientos en:  Fl Studio, Ableton, y Cubase</li>
+</ul>
+<h2 id="-proyectos-principales-">💎 Proyectos Principales:</h2>
+<p><img src="https://cdn.discordapp.com/attachments/1010292896840298599/1011718501372805210/standard.gif" align="right" /></a></p>
+<h4 id="-brinzbot">🤖 BrinzBot</h4>
+<ul>
+<li>Bot Multiproposito</li>
+<li>Diversión, Información, Moderación, Utilidad y Mucho mas</li>
+<li>+30 Servidores | + 2800 Usuarios</li>
+</ul>
+<p><a href="https://discord.com/api/oauth2/authorize?client_id=967263754301607996&amp;permissions=8&amp;scope=bot%20applications.commands">Invitación</a> | <a href="https://brinzbot.ga/">Web</a> | <a href="">Servidor de Soporte</a></p>
+<h4 id="-web-personal">🌐 Web Personal</h4>
+<ul>
+<li>Información mas extensa sobre mi</li>
+<li>Listado completo de todos mis proyectos</li>
+</ul>
+<p><a href="https://venquidev.is-a.dev/">Web</a></p>
+<h2 id="-lenguajes-y-programas-que-manejo-actualmente">👑 Lenguajes y Programas que manejo actualmente</h2>
 <p>
 
-<a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5"><img src="https://cdn.discordapp.com/attachments/1010292896840298599/1022300943078920213/html.png" align="left" height="35" /></a>
-
-<a href="https://developer.mozilla.org/en-US/docs/Web/CSS"><img src="https://cdn.discordapp.com/attachments/1010292896840298599/1022301113199890542/css.png" align="left" height="35" /></a>
-
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img src="https://cdn.discordapp.com/attachments/1010292896840298599/1022301461780111390/js.png" align="left" height="35" /></a>
-
-<a href="https://nodejs.org/es/docs/"><img src="https://cdn.discordapp.com/attachments/1010292896840298599/1022300009150029955/node-js.png" align="left" height="35" /></a>
-
-<a href="https://www.image-line.com/fl-studio-learning/fl-studio-online-manual/"><img src="https://cdn.discordapp.com/attachments/1010292896840298599/1022301793310486608/fl-studio.png" align="left" height="35" /></a>
-
-</p>
+<p><a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5"><img src="https://cdn.discordapp.com/attachments/1010292896840298599/1022300943078920213/html.png" align="left" height="35" /></a></p>
+<p><a href="https://developer.mozilla.org/en-US/docs/Web/CSS"><img src="https://cdn.discordapp.com/attachments/1010292896840298599/1022301113199890542/css.png" align="left" height="35" /></a></p>
+<p><a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img src="https://cdn.discordapp.com/attachments/1010292896840298599/1022301461780111390/js.png" align="left" height="35" /></a></p>
+<p><a href="https://nodejs.org/es/docs/"><img src="https://cdn.discordapp.com/attachments/1010292896840298599/1022300009150029955/node-js.png" align="left" height="35" /></a></p>
+<p><a href="https://www.image-line.com/fl-studio-learning/fl-studio-online-manual/"><img src="https://cdn.discordapp.com/attachments/1010292896840298599/1022301793310486608/fl-studio.png" align="left" height="35" /></a></p>
+<p></p>
 <br>
-<br>
-
-## 📈 GitHub Stats
- 
-<img align="left" src="https://github-readme-stats.vercel.app/api?username=VenQuiDev&&show_icons=true&include_all_commits=true&title_color=fff&icon_color=79ff97&text_color=efefef&bg_color=24292e" alt="Estadísticas de VenQuiDev" width="60%">
-  
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=VenQuiDev&show_icons=true&hide_border=true&theme=radical" width="37%" alt="Lenguajes más usados por VenQuiDev">
+<br></p>
+<h2 id="-github-stats">📈 GitHub Stats</h2>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api?username=VenQuiDev&&show_icons=true&include_all_commits=true&title_color=fff&icon_color=79ff97&text_color=efefef&bg_color=24292e" alt="Estadísticas de VenQuiDev" width="60%"></p>
+<p><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=VenQuiDev&show_icons=true&hide_border=true&theme=radical" width="37%" alt="Lenguajes más usados por VenQuiDev"></p>
