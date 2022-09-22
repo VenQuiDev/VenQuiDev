@@ -9,13 +9,13 @@
 <li>🎧 En 2022 empece a estudiar sobre producción musical, actualmente tengo conocimientos en:  Fl Studio, Ableton, y Cubase</li>
 </ul>
 <h2 id="-proyectos-principales-" align="center">💎 Proyectos Principales:</h2>
-<p><img src="https://cdn.discordapp.com/attachments/1010292896840298599/1011718501372805210/standard.gif" align="right" /></a></p>
 <h4 id="-brinzbot">🤖 BrinzBot</h4>
 <ul>
 <li>Bot Multiproposito</li>
 <li>Diversión, Información, Moderación, Utilidad y Mucho mas</li>
 <li>+30 Servidores | + 2800 Usuarios</li>
 </ul>
+<p><img src="https://cdn.discordapp.com/attachments/1010292896840298599/1011718501372805210/standard.gif" align="left" /></a></p>
 <p><a href="https://discord.com/api/oauth2/authorize?client_id=967263754301607996&amp;permissions=8&amp;scope=bot%20applications.commands">Invitación</a> | <a href="https://brinzbot.ga/">Web</a> | <a href="">Servidor de Soporte</a></p>
 <h4 id="-web-personal">🌐 Web Personal</h4>
 <ul>
@@ -23,7 +23,7 @@
 <li>Listado completo de todos mis proyectos</li>
 </ul>
 <p><a href="https://venquidev.is-a.dev/">Web</a></p>
-<h2 id="-lenguajes-y-programas-que-manejo-actualmente align="center"">👑 Lenguajes y Programas que Manejo Actualmente</h2>
+<h2 id="-lenguajes-y-programas-que-manejo-actualmente" align="center">👑 Lenguajes y Programas que Manejo Actualmente</h2>
 <p>
 
 <p><a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5"><img src="https://cdn.discordapp.com/attachments/1010292896840298599/1022300943078920213/html.png" align="left" height="35" /></a></p>
@@ -34,6 +34,6 @@
 <p></p>
 <br>
 <br></p>
-<h2 id="-estadisticas-de-github">📈 Estadistias de GitHub</h2>
+<h2 id="-estadisticas-de-github" align="center">📈 Estadistias de GitHub</h2>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api?username=VenQuiDev&&show_icons=true&include_all_commits=true&title_color=fff&icon_color=79ff97&text_color=efefef&bg_color=24292e" alt="Estadísticas de VenQuiDev" width="60%"></p>
 <p><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=VenQuiDev&show_icons=true&hide_border=true&theme=radical" width="37%" alt="Lenguajes más usados por VenQuiDev"></p>
