@@ -9,7 +9,7 @@
  - 🧑🏻 15 años | Hombre
  - 💻 Aprendiendo programación por hobby desde el 2021
  - 🎶 He estudiado música desde los 7 años, tengo conocimientos en instrumentos como: Trompeta, Teclado y Percusiones
- - 🎧 En 2022 empece a estudiar sobre producción musical, actualmente tengo conocimientos en:  Fl Studio, Ableton, y Cubase.
+ - 🎧 En 2022 empece a estudiar sobre producción musical, actualmente tengo conocimientos en:  Fl Studio, Ableton, y Cubase
 
 ## 💎 Proyectos Principales:
 
@@ -48,10 +48,13 @@
 
 ## 📈 GitHub Stats
 
+<p>
+ 
 <img align="left" src="https://github-readme-stats.vercel.app/api?username=VenQuiDev&&show_icons=true&include_all_commits=true&title_color=fff&icon_color=79ff97&text_color=efefef&bg_color=24292e" alt="Estadísticas de VenQuiDev" width="60%">
   
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=VenQuiDev&show_icons=true&hide_border=true&theme=radical" width="37%" alt="Lenguajes más usados por VenQuiDev">
 
+</p>
 <br>
 <br>
 
