@@ -9,13 +9,13 @@
 <li>🎧 En 2022 empece a estudiar sobre producción musical, actualmente tengo conocimientos en:  Fl Studio, Ableton, y Cubase</li>
 </ul>
 <h2 id="-proyectos-principales-" align="center">💎 Proyectos Principales:</h2>
+<p><img src="https://cdn.discordapp.com/attachments/1010292896840298599/1011718501372805210/standard.gif" align="right" /></a></p>
 <h4 id="-brinzbot">🤖 BrinzBot</h4>
 <ul>
 <li>Bot Multiproposito</li>
 <li>Diversión, Información, Moderación, Utilidad y Mucho mas</li>
 <li>+30 Servidores | + 2800 Usuarios</li>
 </ul>
-<p><img src="https://cdn.discordapp.com/attachments/1010292896840298599/1011718501372805210/standard.gif" align="left" /></a></p>
 <p><a href="https://discord.com/api/oauth2/authorize?client_id=967263754301607996&amp;permissions=8&amp;scope=bot%20applications.commands">Invitación</a> | <a href="https://brinzbot.ga/">Web</a> | <a href="">Servidor de Soporte</a></p>
 <h4 id="-web-personal">🌐 Web Personal</h4>
 <ul>
