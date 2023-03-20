@@ -1,7 +1,7 @@
 <h1 id="-hola-soy-venquidev-" align="center">¡Hola, Soy VenQuiDev!</h1>
 
 <h2 id="-sobre-mi-" align="center">🎈 Sobre Mi:</h2>
-<p><a href="https://discord.com/users/447843518954602526"><img src="https://lanyard.cnrad.dev/api/447843518954602526?idleMessage=Desarrollador%20De%20Bots%20Para%20Discord" align="right" /></a></p>
+<p><a href="https://discord.com/users/447843518954602526"><img src="https://discord-cards.kurizu.repl.co/api/compact/447843518954602526?about=Me%20dicen%20la%20mera%20verga&banner=https://s2.best-wallpaper.net/wallpaper/2560x1440/1809/Some-money-dollars_2560x1440.jpg&large_image=&small_image=https://cdn.discordapp.com/attachments/1079050387060961351/1087427718808871033/images_4.jpg&hex=ffffff" align="right" /></a></p>
 <ul>
 <li>🐄 CUU | México</li>
 <li>🧑🏻 16 años | Hombre</li>
@@ -18,19 +18,7 @@
 <ul>
 <p>Aitana es una bot para discord diseñada con el objetivo principal de ofrecer la mayor cantidad de funciones/opciones posibles en un solo bot y estas mismas sean facilmente utilizables en tu servidor</p>
 </ul>
-<p><a href="https://discord.com/api/oauth2/authorize?client_id=967263754301607996&permissions=8&scope=bot%20applications.commands">Invitación</a> | <a href="https://discord.gg/Sy4uZcvvTe">Soporte</a> | <a href="https://aitana.ga/">Web</a> | <a href="https://docs.aitana.ga/">Docs</a></p>
-
-<br>
-
-<h2 id="-lenguajes-y-programas-que-manejo-actualmente" align="center">👑 Lenguajes y Programas que Manejo Actualmente</h2>
-<p>
-
-<p><a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5"><img src="https://cdn.discordapp.com/attachments/1010292896840298599/1022300943078920213/html.png" align="left" height="35" /></a></p>
-<p><a href="https://developer.mozilla.org/en-US/docs/Web/CSS"><img src="https://cdn.discordapp.com/attachments/1010292896840298599/1022301113199890542/css.png" align="left" height="35" /></a></p>
-<p><a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img src="https://cdn.discordapp.com/attachments/1010292896840298599/1022301461780111390/js.png" align="left" height="35" /></a></p>
-<p><a href="https://nodejs.org/es/docs/"><img src="https://cdn.discordapp.com/attachments/1010292896840298599/1022300009150029955/node-js.png" align="left" height="35" /></a></p>
-<p><a href="https://www.image-line.com/fl-studio-learning/fl-studio-online-manual/"><img src="https://cdn.discordapp.com/attachments/1010292896840298599/1022301793310486608/fl-studio.png" align="left" height="35" /></a></p>
-<p></p>
+<p><a href="https://discord.com/api/oauth2/authorize?client_id=967263754301607996&permissions=8&scope=bot%20applications.commands">Invitación</a> | <a href="https://discord.gg/Sy4uZcvvTe">Soporte</a> | <a href="https://aitana.ga/">Web</a>
 
 <br>
 <br></p>
