@@ -1,7 +1,7 @@
 <h1 id="-hola-soy-venquidev-" align="center">¡Hola, Soy VenQuiDev!</h1>
 
 <h2 id="-sobre-mi-" align="center">🎈 Sobre Mi:</h2>
-<p><img src="https://discord-cards.kurizu.repl.co/api/compact/447843518954602526?about=Me%20dicen%20la%20mera%20verga&banner=https://s2.best-wallpaper.net/wallpaper/2560x1440/1809/Some-money-dollars_2560x1440.jpg&large_image=&small_image=https://cdn.discordapp.com/attachments/1079050387060961351/1087427718808871033/images_4.jpg&hex=ffffff" align="right" /></p>
+<p><img src="https://discord.c99.nl/widget/theme-4/447843518954602526.png" align="right" /></p>
 <ul>
 <li>🐄 CUU | México</li>
 <li>🧑🏻 16 años | Hombre</li>
