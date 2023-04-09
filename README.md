@@ -69,8 +69,7 @@
 <br/>  
 
 
-## Github Stats  
-<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=venquidev&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
+## Stats
 
 <br/>  
 
@@ -82,18 +81,13 @@
 
 <br/>  
 
-<div align="center">
+<p align="center">
+  
 <img src="https://github-readme-stats.vercel.app/api?username=venquidev&show_icons=true&theme=tokyonight" align="center" />
-</div>  
-
-<div align="center">
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=venquidev&layout=compact&theme=blue-green" align="center" />
-</div> 
-
-<div align="center">
 <img src="https://youtube-stats-card.vercel.app/api?channelid=UCA_WhRwMY4W14MMDOfu5awQ&layout=center&theme=dark_pink" align="center" />
-</div> 
   
+</p>
 
 <br/>  
 
