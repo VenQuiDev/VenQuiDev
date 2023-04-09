@@ -83,14 +83,19 @@
 <br/>  
 
 <div align="center">
-<img src="https://komarev.com/ghpvc/?username=venquidev&&style=flat-square" align="center" />
+<img src="https://github-readme-stats.vercel.app/api?username=venquidev&show_icons=true&theme=tokyonight" align="center" />
 </div>  
+
+<div align="center">
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=venquidev&layout=compact&theme=blue-green" align="center" />
+</div> 
+
+<div align="center">
+<img src="https://youtube-stats-card.vercel.app/api?channelid=UCA_WhRwMY4W14MMDOfu5awQ&layout=center&theme=dark_pink" align="center" />
+</div> 
   
 
 <br/>  
 
 
 <br />
-
-----
-<div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
